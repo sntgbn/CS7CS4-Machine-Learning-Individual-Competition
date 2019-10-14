@@ -5,7 +5,7 @@ Santiago Gallo Beruben - ADEEDABD6037BFD16D56
 ## Getting started
 This code has the following requirements
 * Use Python3
-* Have scipy, numpy, pandas, scikitlearn and catboost installed
+* Have scipy, numpy, pandas, scikitlearn and catboost [pip packages](https://pypi.org/) installed
 * Have the csv files given for the [Kaggle Competition](https://www.kaggle.com/c/tcdml1920-income-ind/) in the same directory as the source code
 
 ## Running
